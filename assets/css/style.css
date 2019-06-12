@@ -1,0 +1,17 @@
+body {
+    background-image: url("/images/wallpaper.jpg");
+    padding-top: 65px;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 95%
+}
+
+#scrape {
+    margin: 10px 10px;
+}
